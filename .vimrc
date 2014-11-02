@@ -4,7 +4,7 @@ set nocompatible
 set background=dark
 set mouse=a                      "mouse support"
 set ttymouse=xterm
-set nu                          "line number"
+set nu                           "line number"
 set backspace=indent,eol,start
 set t_Co=256
 set lazyredraw
@@ -24,8 +24,8 @@ set autoindent
 set smartindent
 set shiftround
 set smarttab
-set shiftwidth=4    "4 spaces indentation"
-set softtabstop=4   "4 spaces per tabs"
+set shiftwidth=4                "4 spaces indentation"
+set softtabstop=4               "4 spaces per tabs"
 set tabstop=2
 
 "Space instead of tabs"
